@@ -135,7 +135,7 @@ Follow these steps to set up and run the **UrbanShop** project on your local mac
 
 ## 🔗 Links
 
-- [**Live Demo**](Your Live Demo Link]
+- [**Live Demo**](https://www.linkedin.com/posts/shiza-aamir-4805a1267_fullstackdeveloper-djangoproject-ecommerce-activity-7386095723584507904-k50-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFnn2ABOlqxZKOiB5-I11nfl0DygZOU1EI)]
 
 ---
 
